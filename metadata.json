@@ -1,0 +1,9 @@
+{
+  "name": "LuxChat",
+  "description": "A premium, real-time chat application with smooth animations, file sharing, and persistent user sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
